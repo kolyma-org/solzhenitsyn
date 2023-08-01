@@ -15,7 +15,7 @@
       - Small introduction for usage as there will be more complex introduction in https://github.com/Algorithm-Model-Research for useabilities
 
 
-Introduction😄
+Introduction
 ------------
 - For more instroctions into docker usage, check out the organization to get a betterunderstanding on how to use the image
 =======
@@ -23,17 +23,17 @@ Introduction😄
       - docker pull ghcr.io/ronaldsonbellande/malware-exhibit:main
       - docker pull ghcr.io/algorithm-model-research/malware-exhibit:main
 
-Few things to NOTE 📝👇
+Few things to NOTE
 1. Dont deploy on your personal machine. These stuff can go on to infect other devices in your network.
-2. If there is a password on the ZIP(coz VX-UNDERGROUND)....the password is 'infected'.....without the quotes....offcourse🤭
+2. If there is a password on the ZIP(coz VX-UNDERGROUND)....the password is 'infected'.....without the quotes....offcourse
 3. Some are .ex_ intead of .exe to avoid accidental deployment by double clicking
 
 ```
 The malware in this repo is either:
-1. FEW: Built by me 🤭
+1. FEW: Built by me
 2. SOME: Analysed by me ⚡
-3. A FEW: Acquired and retrieved during threat hunting and threat intelligence ☄️
-4. MOST: Shared/Sourced from other malware researchers 😊 VX-UNDERGROUND, KASPERSKY, LIFKA, JOHN HAMMOND, CTFs...and a few others😊
+3. A FEW: Acquired and retrieved during threat hunting and threat intelligence ☄
+4. MOST: Shared/Sourced from other malware researchers VX-UNDERGROUND, KASPERSKY, LIFKA, JOHN HAMMOND, CTFs...and a few others
 ```
 
 - There are over a thousand malware samples in this repository from simple fireworks to weapons-of-mass-destruction.
