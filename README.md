@@ -1,4 +1,8 @@
+<p align="center"><img width="300" src="./docs/readme.jpg"/></p>
 
+<h1 align="center">Solzhenitsyn</h1>
+
+<p align="center">Botnet codebases for various tasks. In memory of <a href="https://en.wikipedia.org/wiki/Aleksandr_Solzhenitsyn">Aleksandr Isayevich Solzhenitsyn</a></p>
 
 # Docker - Usage and Importance
       - Pull the docker image (In Information), do not use this repository on your
